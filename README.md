@@ -1,2 +1,2 @@
 # fix-car
-pano puzzle made by three.js.
+pano puzzle made with three.js.
